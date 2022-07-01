@@ -2,7 +2,7 @@
 This is for Github Profile
 
 
-## Hey 👋, I'm Xin Liu at University of Virginia!  
+## Hey 👋, I'm Xin Liu at the University of Virginia!  
   
 
 <a href="https://github.com/liuxin-James" target="_blank">
@@ -10,9 +10,6 @@ This is for Github Profile
 </a>
 <a href="https://twitter.com/XinLiu29132948" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/xin-liu-399a83194" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
