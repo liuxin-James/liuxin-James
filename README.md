@@ -1,10 +1,5 @@
-# liuxin_James
-This is for Github Profile
-
-
 ## Hey 👋, I'm Xin Liu at the University of Virginia!  
   
-
 <a href="https://github.com/liuxin-James" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -20,18 +15,13 @@ This is for Github Profile
 <a href="https://instagram.com/xinliuhust" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
-
-
 
 ### Nice to meet you! Welcome to connect with me!  
 - I am a master student at the University of Virginia 🌈
 - I do research on cyber forensics and software engineering 💣
 - I wish to build and improve my full-stack skillset 👍  
   
-
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
